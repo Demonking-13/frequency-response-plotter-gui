@@ -53,21 +53,22 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ```bash
 git clone https://github.com/Demonking-13/frequency-response-plotter-gui.git
-cd blog-management-app
+cd frequency-response-plotter-gui
 ````
 
 
 Install the required dependencies:
+```
 pip install numpy scipy matplotlib control
-
+```
 ---
 
 ## ▶️ Running the Application
 
 Start the GUI application by running:
-
+```
 python controlfinal.py
-
+```
 
 The Frequency Response Plotter window will open.
 
