@@ -35,14 +35,12 @@ The project is designed to reduce the complexity of frequency response analysis 
 ---
 
 ## 📂 Project Structure
+```
+├── frequency-response-plotter-gui/
+│   ├── controlfinal.py 
+|   ├── README.md 
 
-frequency-response-plotter-gui/
-│
-├── controlfinal.py # Main application source code
-├── README.md # Project documentation
-
-
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -53,9 +51,10 @@ Ensure you have Python 3.8 or higher installed on your system.
 
 ### Installation
 
-Clone the repository:
+```bash
 git clone https://github.com/Demonking-13/frequency-response-plotter-gui.git
-cd frequency-response-plotter-gui
+cd blog-management-app
+````
 
 
 Install the required dependencies:
