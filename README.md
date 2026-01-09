@@ -132,16 +132,11 @@ Contributions are welcome. If you would like to improve this project, feel free 
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 👤 Author
+## 👨‍💻 Author
 
 **Devit Chowdhury**  
 Aspiring Software Engineer 
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/devjit-chowdhury-77bba3248/) | [GitHub](https://github.com/Demonking-13) | [Gmail](devjitchowdhury2003@gmail.com)
 
 ---
 
